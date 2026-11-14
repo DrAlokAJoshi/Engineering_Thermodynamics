@@ -1,0 +1,59 @@
+---
+title: "Engineering Thermodynamics"
+subtitle: "Course focus: Understand the fundamentals of engineering thermodynamics and apply them to analyze, solve, and interpret solutions to practical engineering problems."
+date: last-modified
+date-format: "D MMMM YYYY"
+date-modified: last-modified
+toc: true
+toc-depth: 2
+toc-title: "On this page"
+number-sections: false
+---
+
+## Teaching Plan {#teaching-plan}
+
+**Engineering Thermodynamics: Introduction**
+
+| Week | Topic | Main focus |
+|:----:|:------|:-----------|
+| 1 | First law of thermodynamics | System, energy, heat, work, mass and energy conservation |
+| 2 | Properties of fluids | Volumetric and thermodynamic* properties of fluids, phase-change, ideal gas state processes, sensible and latent heat |
+| 3 | Second law of thermodynamics | Entropy, entropy in open systems, losses and efficiency, third law of thermodynamics |
+| 4 | Additional topics | Instructor-led topics, student-led review of key projects |
+
+: {.striped .hover tbl-colwidths="[8,30,62]"}
+
+## Data Resources {#data-resources}
+
+Specific data sources to be used during the course.
+
+### Thermochemical and property data
+
+- [**NIST Chemistry WebBook**](https://webbook.nist.gov/chemistry/){target="_blank"}: coefficients of the Shomate equations for $c_p$, $h$ and $S$, with enthalpies of formation and combustion.
+- [**NIST WebBook: Fluid Properties**](https://webbook.nist.gov/chemistry/fluid/){target="_blank"}: multi-phase fluid property data.
+
+### Enthalpy of formation and reaction
+
+- [**Calctool: Enthalpy**](https://www.calctool.org/thermodynamics/enthalpy){target="_blank"}: online calculator for enthalpy of formation and reaction.
+- [**Active Thermochemical Tables (ATcT), Argonne National Laboratory**](https://atct.anl.gov/Thermochemical%20Data/version%201.228/index.php){target="_blank"}: critically evaluated thermochemical data (version 1.228).
+
+## Recommended Books {#recommended-books}
+
+::: {.callout-note}
+Any textbook prescribed by your institute is suitable. The books below are additional references that students may find useful.
+:::
+
+| Book title | Author(s) | Publisher | Edition / availability |
+|:-----------|:----------|:----------|:-----------------------|
+| Engineering Thermodynamics | P.K. Nag | McGraw Hill India | 7th edition; Indian edition |
+| Engineering Thermodynamics | R.K. Rajput | Laxmi Publications | Multiple editions; Indian publication |
+| Thermodynamics: An Engineering Approach | Yunus A. Cengel, Michael A. Boles, Mehmet Kanoglu | McGraw Hill | 10th edition (2025); Indian edition available |
+| Fundamentals of Thermodynamics | Claus Borgnakke, Richard E. Sonntag | Wiley | 10th edition (2022); Indian edition available |
+| Fundamentals of Engineering Thermodynamics | Michael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey | Wiley | 8th edition; SI/Indian edition available |
+
+: {.striped .hover tbl-colwidths="[28,32,18,22]"}
+
+## General Learning Resources {#learning-resources}
+
+- [**AICTE e-Kumbh**](https://ekumbh.aicte-india.org/book.php){target="_blank"}: textbooks and learning resources.
+- [**NPTEL**](https://nptel.ac.in/courses){target="_blank"}: online courses.

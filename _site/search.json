@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Engineering Thermodynamics",
+    "section": "",
+    "text": "Engineering Thermodynamics: Introduction\n\n\n\n\n\n\n\n\nWeek\nTopic\nMain focus\n\n\n\n\n1\nFirst law of thermodynamics\nSystem, energy, heat, work, mass and energy conservation\n\n\n2\nProperties of fluids\nVolumetric and thermodynamic* properties of fluids, phase-change, ideal gas state processes, sensible and latent heat\n\n\n3\nSecond law of thermodynamics\nEntropy, entropy in open systems, losses and efficiency, third law of thermodynamics\n\n\n4\nAdditional topics\nInstructor-led topics, student-led review of key projects"
+  },
+  {
+    "objectID": "index.html#teaching-plan",
+    "href": "index.html#teaching-plan",
+    "title": "Engineering Thermodynamics",
+    "section": "",
+    "text": "Engineering Thermodynamics: Introduction\n\n\n\n\n\n\n\n\nWeek\nTopic\nMain focus\n\n\n\n\n1\nFirst law of thermodynamics\nSystem, energy, heat, work, mass and energy conservation\n\n\n2\nProperties of fluids\nVolumetric and thermodynamic* properties of fluids, phase-change, ideal gas state processes, sensible and latent heat\n\n\n3\nSecond law of thermodynamics\nEntropy, entropy in open systems, losses and efficiency, third law of thermodynamics\n\n\n4\nAdditional topics\nInstructor-led topics, student-led review of key projects"
+  },
+  {
+    "objectID": "index.html#data-resources",
+    "href": "index.html#data-resources",
+    "title": "Engineering Thermodynamics",
+    "section": "Data Resources",
+    "text": "Data Resources\nSpecific data sources to be used during the course.\n\nThermochemical and property data\n\nNIST Chemistry WebBook: coefficients of the Shomate equations for \\(c_p\\), \\(h\\) and \\(S\\), with enthalpies of formation and combustion.\nNIST WebBook: Fluid Properties: multi-phase fluid property data.\n\n\n\nEnthalpy of formation and reaction\n\nCalctool: Enthalpy: online calculator for enthalpy of formation and reaction.\nActive Thermochemical Tables (ATcT), Argonne National Laboratory: critically evaluated thermochemical data (version 1.228)."
+  },
+  {
+    "objectID": "index.html#recommended-books",
+    "href": "index.html#recommended-books",
+    "title": "Engineering Thermodynamics",
+    "section": "Recommended Books",
+    "text": "Recommended Books\n\n\n\n\n\n\nNote\n\n\n\nAny textbook prescribed by your institute is suitable. The books below are additional references that students may find useful.\n\n\n\n\n\n\n\n\n\n\n\nBook title\nAuthor(s)\nPublisher\nEdition / availability\n\n\n\n\nEngineering Thermodynamics\nP.K. Nag\nMcGraw Hill India\n7th edition; Indian edition\n\n\nEngineering Thermodynamics\nR.K. Rajput\nLaxmi Publications\nMultiple editions; Indian publication\n\n\nThermodynamics: An Engineering Approach\nYunus A. Cengel, Michael A. Boles, Mehmet Kanoglu\nMcGraw Hill\n10th edition (2025); Indian edition available\n\n\nFundamentals of Thermodynamics\nClaus Borgnakke, Richard E. Sonntag\nWiley\n10th edition (2022); Indian edition available\n\n\nFundamentals of Engineering Thermodynamics\nMichael J. Moran, Howard N. Shapiro, Daisie D. Boettner, Margaret B. Bailey\nWiley\n8th edition; SI/Indian edition available"
+  },
+  {
+    "objectID": "index.html#learning-resources",
+    "href": "index.html#learning-resources",
+    "title": "Engineering Thermodynamics",
+    "section": "General Learning Resources",
+    "text": "General Learning Resources\n\nAICTE e-Kumbh: textbooks and learning resources.\nNPTEL: online courses."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Course",
+    "section": "",
+    "text": "Undergraduate engineering students who want to strengthen their fundamentals.\nEarly-career engineering professionals looking to revisit or deepen their understanding.\nProfessionals interested in applying thermodynamics to new technical domains or personal projects.\nAnyone curious about how thermodynamics explains and enables engineering systems."
+  },
+  {
+    "objectID": "about.html#audience",
+    "href": "about.html#audience",
+    "title": "About the Course",
+    "section": "",
+    "text": "Undergraduate engineering students who want to strengthen their fundamentals.\nEarly-career engineering professionals looking to revisit or deepen their understanding.\nProfessionals interested in applying thermodynamics to new technical domains or personal projects.\nAnyone curious about how thermodynamics explains and enables engineering systems."
+  },
+  {
+    "objectID": "about.html#structure",
+    "href": "about.html#structure",
+    "title": "About the Course",
+    "section": "Course Structure",
+    "text": "Course Structure\n\n\n\n\n\n\n\n\nSession\nWhen\nFormat\n\n\n\n\nCore sessions\nTuesday and Thursday, 1.5 hours each\nInteractive teaching, conceptual discussions and problem-solving\n\n\nLearning clinic (optional)\nFriday, 1 hour\nReflections, spill-over topics, and student-led activity discussions\n\n\n\nDuration: four weeks."
+  },
+  {
+    "objectID": "about.html#activities",
+    "href": "about.html#activities",
+    "title": "About the Course",
+    "section": "Learning Activities",
+    "text": "Learning Activities\n\nHomework and small programming-based projects are introduced at appropriate points during the course.\nActivities can be completed individually or in groups.\nLearners are encouraged to use programming tools, AI agents and LLMs to explore concepts, solve problems, test ideas and develop solutions.\nGroups or individuals can showcase their work during weekly optional session or the final week.\n\n\n\n\n\n\n\nNote\n\n\n\nActivities are intended for learning and exploration, not assessment. There are no graded assignments, quizzes, end-of-course examinations or completion certificates."
+  },
+  {
+    "objectID": "about.html#value",
+    "href": "about.html#value",
+    "title": "About the Course",
+    "section": "Why Take This Course?",
+    "text": "Why Take This Course?\n\n\n\n\n\n\n\nWhat it means for you\nBenefit\n\n\n\n\nRevisit and strengthen thermodynamics fundamentals before pursuing postgraduate education or specialising in a technical area.\nFoundations for further learning\n\n\nApply thermodynamics to projects at work or personal projects, and explore opportunities to combine your existing technical expertise with new domains.\nExpand your technical capabilities\n\n\nDiscuss problems, challenge assumptions, learn from peers and explore multiple approaches rather than simply following worked examples.\nLearn through interaction and collaboration\n\n\nLearn to frame engineering problems, use AI agents and LLMs to explore solutions, write and execute code, and critically evaluate the results. AI can assist with the work, but engineering understanding is essential to judge whether the answers make sense.\nBecome an effective AI-enabled engineer\n\n\n\nBecause nothing is graded, your time goes into understanding and building rather than into preparing for tests, so the hours you invest go directly into skills you can reuse."
+  },
+  {
+    "objectID": "about.html#philosophy",
+    "href": "about.html#philosophy",
+    "title": "About the Course",
+    "section": "Learning Philosophy",
+    "text": "Learning Philosophy\n\n\n\n\n\n\nTip\n\n\n\nThe emphasis is on understanding, exploration and application rather than examinations, grades or certificates. The objective is not just to learn thermodynamics, but to develop the confidence to use it as an engineering tool in an increasingly AI-enabled workplace."
+  },
+  {
+    "objectID": "about.html#why-take-this-course",
+    "href": "about.html#why-take-this-course",
+    "title": "About the Course",
+    "section": "Why Take This Course?",
+    "text": "Why Take This Course?\n\n\n\n\n\n\n\nBenefit\nWhat it means for you\n\n\n\n\nFoundations for further learning\nRevisit and strengthen thermodynamics fundamentals before pursuing postgraduate education or specialising in a technical area.\n\n\nExpand your technical capabilities\nApply thermodynamics to projects at work or personal projects, and explore opportunities to combine your existing technical expertise with new domains.\n\n\nLearn through interaction and collaboration\nDiscuss problems, challenge assumptions, learn from peers and explore multiple approaches rather than simply following worked examples.\n\n\nBecome an effective AI-enabled engineer\nLearn to frame engineering problems, use AI agents and LLMs to explore solutions, write and execute code, and critically evaluate the results. AI can assist with the work, but engineering understanding is essential to judge whether the answers make sense.\n\n\n\nBecause nothing is graded, your time goes into understanding and building rather than into preparing for tests, so the hours you invest go directly into skills you can reuse."
+  }
+]

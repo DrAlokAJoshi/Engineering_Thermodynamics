@@ -1,0 +1,58 @@
+---
+title: "About the Course"
+subtitle: "Build a strong understanding of the fundamentals of engineering thermodynamics and develop the ability to apply them to analyse, solve and interpret practical engineering problems."
+date: last-modified
+date-format: "D MMMM YYYY"
+toc: true
+toc-depth: 2
+toc-title: "On this page"
+number-sections: false
+---
+
+## Who Is This Course For? {#audience}
+
+- **Undergraduate engineering students** who want to strengthen their fundamentals.
+- **Early-career engineering professionals** looking to revisit or deepen their understanding.
+- **Professionals** interested in applying thermodynamics to new technical domains or personal projects.
+- **Anyone curious** about how thermodynamics explains and enables engineering systems.
+
+## Course Structure {#structure}
+
+| Session | When | Format |
+|:--------|:-----|:-------|
+| Core sessions | Tuesday and Thursday, 1.5 hours each | Interactive teaching, conceptual discussions and problem-solving |
+| Learning clinic (optional) | Friday, 1 hour | Reflections, spill-over topics, and student-led activity discussions |
+
+: {.striped .hover tbl-colwidths="[25,30,45]"}
+
+**Duration:** four weeks.
+
+## Learning Activities {#activities}
+
+- Homework and small programming-based projects are introduced at appropriate points during the course.
+- Activities can be completed individually or in groups.
+- Learners are encouraged to use programming tools, AI agents and LLMs to explore concepts, solve problems, test ideas and develop solutions.
+- Groups or individuals can showcase their work during weekly optional session or the final week.
+
+::: {.callout-note}
+Activities are intended for learning and exploration, not assessment. There are no graded assignments, quizzes, end-of-course examinations or completion certificates.
+:::
+
+## Why Take This Course? {#value}
+
+| What it means for you | Benefit |
+|:----------------------|:--------|
+| Revisit and strengthen thermodynamics fundamentals before pursuing postgraduate education or specialising in a technical area. | **Foundations for further learning** |
+| Apply thermodynamics to projects at work or personal projects, and explore opportunities to combine your existing technical expertise with new domains. | **Expand your technical capabilities** |
+| Discuss problems, challenge assumptions, learn from peers and explore multiple approaches rather than simply following worked examples. | **Learn through interaction and collaboration** |
+| Learn to frame engineering problems, use AI agents and LLMs to explore solutions, write and execute code, and critically evaluate the results. AI can assist with the work, but engineering understanding is essential to judge whether the answers make sense. | **Become an effective AI-enabled engineer** |
+
+: {.striped .hover tbl-colwidths="[70,30]"}
+
+Because nothing is graded, your time goes into understanding and building rather than into preparing for tests, so the hours you invest go directly into skills you can reuse.
+
+## Learning Philosophy {#philosophy}
+
+::: {.callout-tip}
+The emphasis is on understanding, exploration and application rather than examinations, grades or certificates. The objective is not just to learn thermodynamics, but to develop the confidence to use it as an engineering tool in an increasingly AI-enabled workplace.
+:::
